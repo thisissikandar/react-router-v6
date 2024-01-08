@@ -1,4 +1,4 @@
-# [Project Live On Vercel](https://react-router-v6-cz0r3hfib-thisissikandar.vercel.app/)
+# [Project Live On Vercel](https://react-router-v6-two.vercel.app/)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
